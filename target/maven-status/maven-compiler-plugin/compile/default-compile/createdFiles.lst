@@ -1,0 +1,4 @@
+mongoDb/mongoConn/MongoConnApplication.class
+mongoDb/mongoConn/controller/MongoConnController.class
+mongoDb/mongoConn/service/DataService.class
+mongoDb/mongoConn/service/MongoConnService.class
